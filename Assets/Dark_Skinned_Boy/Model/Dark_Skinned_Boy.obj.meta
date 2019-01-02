@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 619a150874a44a247abece64af277e2a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Dark_Skinned_Boy_Body_Dark_Skinned_Boy
+    100004: Dark_Skinned_Boy_Dark_Skinned_Boy_Eye
+    100006: Dark_Skinned_Boy_Dark_Skinned_Boy_Eyebrow
+    100008: Dark_Skinned_Boy_Dark_Skinned_Boy_Eyelash
+    100010: Dark_Skinned_Boy_Dark_Skinned_Boy_Jeans
+    100012: Dark_Skinned_Boy_Dark_Skinned_Boy_Shoes
+    100014: Dark_Skinned_Boy_Dark_Skinned_Boy_Top
+    400000: //RootNode
+    400002: Dark_Skinned_Boy_Body_Dark_Skinned_Boy
+    400004: Dark_Skinned_Boy_Dark_Skinned_Boy_Eye
+    400006: Dark_Skinned_Boy_Dark_Skinned_Boy_Eyebrow
+    400008: Dark_Skinned_Boy_Dark_Skinned_Boy_Eyelash
+    400010: Dark_Skinned_Boy_Dark_Skinned_Boy_Jeans
+    400012: Dark_Skinned_Boy_Dark_Skinned_Boy_Shoes
+    400014: Dark_Skinned_Boy_Dark_Skinned_Boy_Top
+    2100000: Dark_Skinned_Boy_Body_Dark_Skinned_BoyMat
+    2100002: Dark_Skinned_Boy_Dark_Skinned_Boy_EyeMat
+    2100004: Dark_Skinned_Boy_Dark_Skinned_Boy_EyebrowMat
+    2100006: Dark_Skinned_Boy_Dark_Skinned_Boy_EyelashMat
+    2100008: Dark_Skinned_Boy_Dark_Skinned_Boy_JeansMat
+    2100010: Dark_Skinned_Boy_Dark_Skinned_Boy_ShoesMat
+    2100012: Dark_Skinned_Boy_Dark_Skinned_Boy_TopMat
+    2300000: Dark_Skinned_Boy_Body_Dark_Skinned_Boy
+    2300002: Dark_Skinned_Boy_Dark_Skinned_Boy_Eye
+    2300004: Dark_Skinned_Boy_Dark_Skinned_Boy_Eyebrow
+    2300006: Dark_Skinned_Boy_Dark_Skinned_Boy_Eyelash
+    2300008: Dark_Skinned_Boy_Dark_Skinned_Boy_Jeans
+    2300010: Dark_Skinned_Boy_Dark_Skinned_Boy_Shoes
+    2300012: Dark_Skinned_Boy_Dark_Skinned_Boy_Top
+    3300000: Dark_Skinned_Boy_Body_Dark_Skinned_Boy
+    3300002: Dark_Skinned_Boy_Dark_Skinned_Boy_Eye
+    3300004: Dark_Skinned_Boy_Dark_Skinned_Boy_Eyebrow
+    3300006: Dark_Skinned_Boy_Dark_Skinned_Boy_Eyelash
+    3300008: Dark_Skinned_Boy_Dark_Skinned_Boy_Jeans
+    3300010: Dark_Skinned_Boy_Dark_Skinned_Boy_Shoes
+    3300012: Dark_Skinned_Boy_Dark_Skinned_Boy_Top
+    4300000: Dark_Skinned_Boy_Body_Dark_Skinned_Boy
+    4300002: Dark_Skinned_Boy_Dark_Skinned_Boy_Eye
+    4300004: Dark_Skinned_Boy_Dark_Skinned_Boy_Eyebrow
+    4300006: Dark_Skinned_Boy_Dark_Skinned_Boy_Eyelash
+    4300008: Dark_Skinned_Boy_Dark_Skinned_Boy_Jeans
+    4300010: Dark_Skinned_Boy_Dark_Skinned_Boy_Shoes
+    4300012: Dark_Skinned_Boy_Dark_Skinned_Boy_Top
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Skinned_Boy_Body_Dark_Skinned_BoyMat
+    second: {fileID: 2100000, guid: de607de1925d84142b08f4b1d1f91221, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Skinned_Boy_Dark_Skinned_Boy_EyeMat
+    second: {fileID: 2100000, guid: 14571010efc60a64598b83cb090ee8ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Skinned_Boy_Dark_Skinned_Boy_EyebrowMat
+    second: {fileID: 2100000, guid: 647a53a475b2a7147bb7bc6267d8606f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Skinned_Boy_Dark_Skinned_Boy_EyelashMat
+    second: {fileID: 2100000, guid: ad740b185414bf344a9b4c182226b9d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Skinned_Boy_Dark_Skinned_Boy_JeansMat
+    second: {fileID: 2100000, guid: 8c7d3718f5df20b4fad66faef3142d1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Skinned_Boy_Dark_Skinned_Boy_ShoesMat
+    second: {fileID: 2100000, guid: 1e60823848f12cc4fb2b41ca6e4e869c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Skinned_Boy_Dark_Skinned_Boy_TopMat
+    second: {fileID: 2100000, guid: 33af5993f604ca442bdcc586af00af88, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

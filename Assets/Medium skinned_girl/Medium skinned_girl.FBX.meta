@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 8293c0e4f9466f44095092a4d2d7982f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Medium_skinned_girl_body
+    100004: Medium_skinned_girl_bottom
+    100006: Medium_skinned_girl_eyeball
+    100008: Medium_skinned_girl_eyebrow
+    100010: Medium_skinned_girl_eyelashes
+    100012: Medium_skinned_girl_hair
+    100014: Medium_skinned_girl_hair002
+    100016: Medium_skinned_girl_hair01
+    100018: Medium_skinned_girl_Shoes
+    100020: Medium_skinned_girl_Top
+    400000: //RootNode
+    400002: Medium_skinned_girl_body
+    400004: Medium_skinned_girl_bottom
+    400006: Medium_skinned_girl_eyeball
+    400008: Medium_skinned_girl_eyebrow
+    400010: Medium_skinned_girl_eyelashes
+    400012: Medium_skinned_girl_hair
+    400014: Medium_skinned_girl_hair002
+    400016: Medium_skinned_girl_hair01
+    400018: Medium_skinned_girl_Shoes
+    400020: Medium_skinned_girl_Top
+    2100000: Medium_skinned_girl_hair
+    2100002: Medium_skinned_girl_eyebrow
+    2100004: Medium_skinned_girl_eyelashes
+    2100006: Medium_skinned_girl_bottom
+    2100008: Medium_skinned_girl_body
+    2100010: Medium_skinned_girl_hair01
+    2100012: Medium_skinned_girl_Top
+    2100014: Medium_skinned_girl_Shoes
+    2100016: Medium_skinned_girl_eyeball
+    2300000: Medium_skinned_girl_body
+    2300002: Medium_skinned_girl_bottom
+    2300004: Medium_skinned_girl_eyeball
+    2300006: Medium_skinned_girl_eyebrow
+    2300008: Medium_skinned_girl_eyelashes
+    2300010: Medium_skinned_girl_hair
+    2300012: Medium_skinned_girl_hair002
+    2300014: Medium_skinned_girl_hair01
+    2300016: Medium_skinned_girl_Shoes
+    2300018: Medium_skinned_girl_Top
+    3300000: Medium_skinned_girl_body
+    3300002: Medium_skinned_girl_bottom
+    3300004: Medium_skinned_girl_eyeball
+    3300006: Medium_skinned_girl_eyebrow
+    3300008: Medium_skinned_girl_eyelashes
+    3300010: Medium_skinned_girl_hair
+    3300012: Medium_skinned_girl_hair002
+    3300014: Medium_skinned_girl_hair01
+    3300016: Medium_skinned_girl_Shoes
+    3300018: Medium_skinned_girl_Top
+    4300000: Medium_skinned_girl_hair
+    4300002: Medium_skinned_girl_eyebrow
+    4300004: Medium_skinned_girl_eyelashes
+    4300006: Medium_skinned_girl_bottom
+    4300008: Medium_skinned_girl_body
+    4300010: Medium_skinned_girl_hair01
+    4300012: Medium_skinned_girl_Top
+    4300014: Medium_skinned_girl_Shoes
+    4300016: Medium_skinned_girl_eyeball
+    4300018: Medium_skinned_girl_hair002
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medium_skinned_girl_Shoes
+    second: {fileID: 2100000, guid: 8e43af5699ac89c45bf40d2f7ecbc577, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medium_skinned_girl_Top
+    second: {fileID: 2100000, guid: 6e96dd79abb66454b92582399b2dc364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medium_skinned_girl_body
+    second: {fileID: 2100000, guid: e08a9892d837bd641a0df7617301ed5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medium_skinned_girl_bottom
+    second: {fileID: 2100000, guid: ef562e6116f7346428cceab1f8e20f13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medium_skinned_girl_eyeball
+    second: {fileID: 2100000, guid: 9b8d68c60416efd4792ec8c503286aea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medium_skinned_girl_eyebrow
+    second: {fileID: 2100000, guid: 97256af21582ba043a2a48121069d63f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medium_skinned_girl_eyelashes
+    second: {fileID: 2100000, guid: 0a08cd90485ead34eb6bb685b5c3e69a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medium_skinned_girl_hair
+    second: {fileID: 2100000, guid: 3963403eec7461840a6833a02e1ca157, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medium_skinned_girl_hair01
+    second: {fileID: 2100000, guid: 54be78b6cd1918d40a2b98d08e6fd951, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.2
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

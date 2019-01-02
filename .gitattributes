@@ -1,0 +1,2 @@
+Library/metadata/04/0442472edb6a52442907da3ae36bee06 filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
