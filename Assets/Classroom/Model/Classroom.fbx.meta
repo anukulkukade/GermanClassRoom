@@ -566,6 +566,15 @@ ModelImporter:
     101120: Environment
     101122: Hallway_Wall_01
     101124: Hallway_Wall_02
+    101126: Almira 1
+    101128: Hinge8 1
+    101130: Hinge9 1
+    101132: Window_04
+    101134: Window_05
+    101136: polySurface1
+    101138: polySurface2
+    101140: Window_06
+    101142: Window_07
     400000: ' 1'
     400002: Arch35_035_03
     400004: Arch35_035_04
@@ -1129,6 +1138,15 @@ ModelImporter:
     401120: Environment
     401122: Hallway_Wall_01
     401124: Hallway_Wall_02
+    401126: Almira 1
+    401128: Hinge8 1
+    401130: Hinge9 1
+    401132: Window_04
+    401134: Window_05
+    401136: polySurface1
+    401138: polySurface2
+    401140: Window_06
+    401142: Window_07
     2100000: lambert1
     2100002: Default_Material
     2100004: glass
@@ -1683,6 +1701,15 @@ ModelImporter:
     2301070: Door
     2301072: Hallway_Wall_01
     2301074: Hallway_Wall_02
+    2301076: Almira 1
+    2301078: Hinge8 1
+    2301080: Hinge9 1
+    2301082: Window_04
+    2301084: Window_05
+    2301086: polySurface1
+    2301088: polySurface2
+    2301090: Window_06
+    2301092: Window_07
     3300000: ' 1'
     3300002: Arch35_035_03
     3300004: Arch35_035_04
@@ -2221,6 +2248,15 @@ ModelImporter:
     3301070: Door
     3301072: Hallway_Wall_01
     3301074: Hallway_Wall_02
+    3301076: Almira 1
+    3301078: Hinge8 1
+    3301080: Hinge9 1
+    3301082: Window_04
+    3301084: Window_05
+    3301086: polySurface1
+    3301088: polySurface2
+    3301090: Window_06
+    3301092: Window_07
     4300000: Object
     4300002: Object002
     4300004: Sphere014
@@ -2750,6 +2786,15 @@ ModelImporter:
     4301052: Environment
     4301054: Hallway_Wall_02
     4301056: Hallway_Wall_01
+    4301058: Window_04
+    4301060: Window_05
+    4301062: Almira
+    4301064: Hinge8
+    4301066: Hinge9
+    4301068: Window_06
+    4301070: Window_07
+    4301072: polySurface1
+    4301074: polySurface2
   externalObjects:
   - first:
       type: UnityEngine:Material
