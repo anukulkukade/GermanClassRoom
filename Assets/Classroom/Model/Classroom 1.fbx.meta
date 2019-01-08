@@ -1,0 +1,1041 @@
+fileFormatVersion: 2
+guid: 8dacf8cd1198d2d4aae6fca397d2a7ff
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Almira
+    100002: Almira 1
+    100004: Board
+    100006: Board_01_Base
+    100008: Board_01_Panel
+    100010: Board_02
+    100012: Board_03
+    100014: Body
+    100016: Body 1
+    100018: Book_Set_01
+    100020: Book_Set_010
+    100022: Book_Set_010 1
+    100024: Book_Set_012
+    100026: Book_Set_013
+    100028: Book_Set_014
+    100030: Book_Set_015
+    100032: Book_Set_016
+    100034: Book_Set_017
+    100036: Book_Set_018
+    100038: Book_Set_019
+    100040: Book_Set_02
+    100042: Book_Set_020
+    100044: Book_Set_03
+    100046: Book_Set_04
+    100048: Book_Set_05
+    100050: Book_Set_06
+    100052: Book_Set_06 1
+    100054: Book_Set_07
+    100056: Book_Set_07 1
+    100058: Book_Set_08
+    100060: Book_Set_08 1
+    100062: Book_Set_09
+    100064: Box_01
+    100066: Box_010
+    100068: Box_011
+    100070: Box_012
+    100072: Box_013
+    100074: Box_02
+    100076: Box_03
+    100078: Box_04
+    100080: Box_05
+    100082: Box_06
+    100084: Box_07
+    100086: Box_08
+    100088: Box_09
+    100090: Chair
+    100092: Chair1
+    100094: Chair10
+    100096: Chair11
+    100098: Chair12
+    100100: Chair13
+    100102: Chair14
+    100104: Chair15
+    100106: Chair16
+    100108: Chair17
+    100110: Chair18
+    100112: Chair19
+    100114: Chair2
+    100116: Chair20
+    100118: Chair21
+    100120: Chair22
+    100122: Chair23
+    100124: Chair24
+    100126: Chair25
+    100128: Chair26
+    100130: Chair27
+    100132: Chair28
+    100134: Chair3
+    100136: Chair4
+    100138: Chair5
+    100140: Chair6
+    100142: Chair7
+    100144: Chair8
+    100146: Chair9
+    100148: Chair_Copy
+    100150: Classroom
+    100152: //RootNode
+    100154: Clock
+    100156: Clock_Glass
+    100158: Desk_01
+    100160: Desk_010
+    100162: Desk_011
+    100164: Desk_012
+    100166: Desk_013
+    100168: Desk_014
+    100170: Desk_015
+    100172: Desk_016
+    100174: Desk_02
+    100176: Desk_03
+    100178: Desk_04
+    100180: Desk_05
+    100182: Desk_06
+    100184: Desk_07
+    100186: Desk_08
+    100188: Desk_09
+    100190: Door
+    100192: Door 1
+    100194: Door 2
+    100196: Door_Panel
+    100198: Door_Panel 1
+    100200: Door_Panel1
+    100202: Door_Panel1 1
+    100204: Dust_Bin
+    100206: File_Set_01
+    100208: File_Set_02
+    100210: File_Set_03
+    100212: File_Set_03 1
+    100214: File_Set_04
+    100216: File_Set_06
+    100218: File_Set_07
+    100220: File_Set_08
+    100222: First_Aid_Box
+    100224: Floor
+    100226: Floor 1
+    100228: Furniture
+    100230: Glass
+    100232: Hallway
+    100234: Hallway_Door
+    100236: Hallway_Objects
+    100238: Handle_01
+    100240: Handle_01 1
+    100242: Handle_01 2
+    100244: Handle_02
+    100246: Handle_03
+    100248: Handle_04
+    100250: Handle_04 1
+    100252: Hinge
+    100254: Hinge1
+    100256: Hinge2
+    100258: Hinge26
+    100260: Hinge27
+    100262: Hinge28
+    100264: Hinge28 1
+    100266: Hinge29
+    100268: Hinge29 1
+    100270: Hinge3
+    100272: Hinge4
+    100274: Hinge5
+    100276: Hinge6
+    100278: Hinge7
+    100280: Hinge8
+    100282: Hinge8 1
+    100284: Hinge9
+    100286: Hinge9 1
+    100288: Hook
+    100290: Keyhole_01
+    100292: Keyhole_01 1
+    100294: Keyhole_02
+    100296: Keyhole_02 1
+    100298: Mirror
+    100300: Objects_Copy
+    100302: Panel
+    100304: Panel 1
+    100306: Panel_01
+    100308: Panel_01 1
+    100310: Panel_02
+    100312: Panel_02 1
+    100314: Paper_Set_01
+    100316: Paper_Set_02
+    100318: Paper_Set_03
+    100320: Paper_Set_04
+    100322: Paper_Set_05
+    100324: Projector
+    100326: Projector_Board
+    100328: Projector_Glass
+    100330: Roof
+    100332: Roof 1
+    100334: Shelf
+    100336: Shelf_01
+    100338: Shelf_02
+    100340: Shelf_Base
+    100342: Shelf_Base1
+    100344: Shelf_Base1 1
+    100346: Shelf_Base2
+    100348: Side_Desk
+    100350: Side_Desk3
+    100352: Side_Desk4
+    100354: Side_Desk5
+    100356: Side_Table
+    100358: Side_Table2
+    100360: Sink
+    100362: Slab
+    100364: Speaker
+    100366: Speakers
+    100368: Speakers1
+    100370: Switch
+    100372: Tube
+    100374: Wall
+    100376: Wall 1
+    100378: Wall 2
+    100380: Window_01
+    100382: Window_08
+    100384: Window_09
+    100386: Wood
+    100388: Wooden
+    100390: Wooden 1
+    100392: Wooden1
+    100394: Wooden1 1
+    100396: Wordl_Map
+    400000: Almira
+    400002: Almira 1
+    400004: Board
+    400006: Board_01_Base
+    400008: Board_01_Panel
+    400010: Board_02
+    400012: Board_03
+    400014: Body
+    400016: Body 1
+    400018: Book_Set_01
+    400020: Book_Set_010
+    400022: Book_Set_010 1
+    400024: Book_Set_012
+    400026: Book_Set_013
+    400028: Book_Set_014
+    400030: Book_Set_015
+    400032: Book_Set_016
+    400034: Book_Set_017
+    400036: Book_Set_018
+    400038: Book_Set_019
+    400040: Book_Set_02
+    400042: Book_Set_020
+    400044: Book_Set_03
+    400046: Book_Set_04
+    400048: Book_Set_05
+    400050: Book_Set_06
+    400052: Book_Set_06 1
+    400054: Book_Set_07
+    400056: Book_Set_07 1
+    400058: Book_Set_08
+    400060: Book_Set_08 1
+    400062: Book_Set_09
+    400064: Box_01
+    400066: Box_010
+    400068: Box_011
+    400070: Box_012
+    400072: Box_013
+    400074: Box_02
+    400076: Box_03
+    400078: Box_04
+    400080: Box_05
+    400082: Box_06
+    400084: Box_07
+    400086: Box_08
+    400088: Box_09
+    400090: Chair
+    400092: Chair1
+    400094: Chair10
+    400096: Chair11
+    400098: Chair12
+    400100: Chair13
+    400102: Chair14
+    400104: Chair15
+    400106: Chair16
+    400108: Chair17
+    400110: Chair18
+    400112: Chair19
+    400114: Chair2
+    400116: Chair20
+    400118: Chair21
+    400120: Chair22
+    400122: Chair23
+    400124: Chair24
+    400126: Chair25
+    400128: Chair26
+    400130: Chair27
+    400132: Chair28
+    400134: Chair3
+    400136: Chair4
+    400138: Chair5
+    400140: Chair6
+    400142: Chair7
+    400144: Chair8
+    400146: Chair9
+    400148: Chair_Copy
+    400150: Classroom
+    400152: //RootNode
+    400154: Clock
+    400156: Clock_Glass
+    400158: Desk_01
+    400160: Desk_010
+    400162: Desk_011
+    400164: Desk_012
+    400166: Desk_013
+    400168: Desk_014
+    400170: Desk_015
+    400172: Desk_016
+    400174: Desk_02
+    400176: Desk_03
+    400178: Desk_04
+    400180: Desk_05
+    400182: Desk_06
+    400184: Desk_07
+    400186: Desk_08
+    400188: Desk_09
+    400190: Door
+    400192: Door 1
+    400194: Door 2
+    400196: Door_Panel
+    400198: Door_Panel 1
+    400200: Door_Panel1
+    400202: Door_Panel1 1
+    400204: Dust_Bin
+    400206: File_Set_01
+    400208: File_Set_02
+    400210: File_Set_03
+    400212: File_Set_03 1
+    400214: File_Set_04
+    400216: File_Set_06
+    400218: File_Set_07
+    400220: File_Set_08
+    400222: First_Aid_Box
+    400224: Floor
+    400226: Floor 1
+    400228: Furniture
+    400230: Glass
+    400232: Hallway
+    400234: Hallway_Door
+    400236: Hallway_Objects
+    400238: Handle_01
+    400240: Handle_01 1
+    400242: Handle_01 2
+    400244: Handle_02
+    400246: Handle_03
+    400248: Handle_04
+    400250: Handle_04 1
+    400252: Hinge
+    400254: Hinge1
+    400256: Hinge2
+    400258: Hinge26
+    400260: Hinge27
+    400262: Hinge28
+    400264: Hinge28 1
+    400266: Hinge29
+    400268: Hinge29 1
+    400270: Hinge3
+    400272: Hinge4
+    400274: Hinge5
+    400276: Hinge6
+    400278: Hinge7
+    400280: Hinge8
+    400282: Hinge8 1
+    400284: Hinge9
+    400286: Hinge9 1
+    400288: Hook
+    400290: Keyhole_01
+    400292: Keyhole_01 1
+    400294: Keyhole_02
+    400296: Keyhole_02 1
+    400298: Mirror
+    400300: Objects_Copy
+    400302: Panel
+    400304: Panel 1
+    400306: Panel_01
+    400308: Panel_01 1
+    400310: Panel_02
+    400312: Panel_02 1
+    400314: Paper_Set_01
+    400316: Paper_Set_02
+    400318: Paper_Set_03
+    400320: Paper_Set_04
+    400322: Paper_Set_05
+    400324: Projector
+    400326: Projector_Board
+    400328: Projector_Glass
+    400330: Roof
+    400332: Roof 1
+    400334: Shelf
+    400336: Shelf_01
+    400338: Shelf_02
+    400340: Shelf_Base
+    400342: Shelf_Base1
+    400344: Shelf_Base1 1
+    400346: Shelf_Base2
+    400348: Side_Desk
+    400350: Side_Desk3
+    400352: Side_Desk4
+    400354: Side_Desk5
+    400356: Side_Table
+    400358: Side_Table2
+    400360: Sink
+    400362: Slab
+    400364: Speaker
+    400366: Speakers
+    400368: Speakers1
+    400370: Switch
+    400372: Tube
+    400374: Wall
+    400376: Wall 1
+    400378: Wall 2
+    400380: Window_01
+    400382: Window_08
+    400384: Window_09
+    400386: Wood
+    400388: Wooden
+    400390: Wooden 1
+    400392: Wooden1
+    400394: Wooden1 1
+    400396: Wordl_Map
+    2100000: Classroom_Floor
+    2100002: Classroom_Roof
+    2100004: Classroom_Wall
+    2100006: Classroom_Glass
+    2100008: Classroon_Tube
+    2100010: Classroon_Wood
+    2100012: Classroon_Furniture
+    2100014: Classroom_boards
+    2100016: Classroom_shelf
+    2100018: Hallway_Wall
+    2100020: Hallway_Roof
+    2100022: Hallway_Floor
+    2300000: Almira
+    2300002: Almira 1
+    2300004: Board_01_Base
+    2300006: Board_01_Panel
+    2300008: Board_02
+    2300010: Board_03
+    2300012: Book_Set_01
+    2300014: Book_Set_010
+    2300016: Book_Set_010 1
+    2300018: Book_Set_012
+    2300020: Book_Set_013
+    2300022: Book_Set_014
+    2300024: Book_Set_015
+    2300026: Book_Set_016
+    2300028: Book_Set_017
+    2300030: Book_Set_018
+    2300032: Book_Set_019
+    2300034: Book_Set_02
+    2300036: Book_Set_020
+    2300038: Book_Set_03
+    2300040: Book_Set_04
+    2300042: Book_Set_05
+    2300044: Book_Set_06
+    2300046: Book_Set_06 1
+    2300048: Book_Set_07
+    2300050: Book_Set_07 1
+    2300052: Book_Set_08
+    2300054: Book_Set_08 1
+    2300056: Book_Set_09
+    2300058: Box_01
+    2300060: Box_010
+    2300062: Box_011
+    2300064: Box_012
+    2300066: Box_013
+    2300068: Box_02
+    2300070: Box_03
+    2300072: Box_04
+    2300074: Box_05
+    2300076: Box_06
+    2300078: Box_07
+    2300080: Box_08
+    2300082: Box_09
+    2300084: Chair
+    2300086: Chair1
+    2300088: Chair10
+    2300090: Chair11
+    2300092: Chair12
+    2300094: Chair13
+    2300096: Chair14
+    2300098: Chair15
+    2300100: Chair16
+    2300102: Chair17
+    2300104: Chair18
+    2300106: Chair19
+    2300108: Chair2
+    2300110: Chair20
+    2300112: Chair21
+    2300114: Chair22
+    2300116: Chair23
+    2300118: Chair24
+    2300120: Chair25
+    2300122: Chair26
+    2300124: Chair27
+    2300126: Chair28
+    2300128: Chair3
+    2300130: Chair4
+    2300132: Chair5
+    2300134: Chair6
+    2300136: Chair7
+    2300138: Chair8
+    2300140: Chair9
+    2300142: Clock
+    2300144: Clock_Glass
+    2300146: Desk_01
+    2300148: Desk_010
+    2300150: Desk_011
+    2300152: Desk_012
+    2300154: Desk_013
+    2300156: Desk_014
+    2300158: Desk_015
+    2300160: Desk_016
+    2300162: Desk_02
+    2300164: Desk_03
+    2300166: Desk_04
+    2300168: Desk_05
+    2300170: Desk_06
+    2300172: Desk_07
+    2300174: Desk_08
+    2300176: Desk_09
+    2300178: Door 1
+    2300180: Door 2
+    2300182: Door_Panel
+    2300184: Door_Panel 1
+    2300186: Door_Panel1
+    2300188: Door_Panel1 1
+    2300190: Dust_Bin
+    2300192: File_Set_01
+    2300194: File_Set_02
+    2300196: File_Set_03
+    2300198: File_Set_03 1
+    2300200: File_Set_04
+    2300202: File_Set_06
+    2300204: File_Set_07
+    2300206: File_Set_08
+    2300208: First_Aid_Box
+    2300210: Floor
+    2300212: Floor 1
+    2300214: Glass
+    2300216: Handle_01
+    2300218: Handle_01 1
+    2300220: Handle_01 2
+    2300222: Handle_02
+    2300224: Handle_03
+    2300226: Handle_04
+    2300228: Handle_04 1
+    2300230: Hinge
+    2300232: Hinge1
+    2300234: Hinge2
+    2300236: Hinge26
+    2300238: Hinge27
+    2300240: Hinge28
+    2300242: Hinge28 1
+    2300244: Hinge29
+    2300246: Hinge29 1
+    2300248: Hinge3
+    2300250: Hinge4
+    2300252: Hinge5
+    2300254: Hinge6
+    2300256: Hinge7
+    2300258: Hinge8
+    2300260: Hinge8 1
+    2300262: Hinge9
+    2300264: Hinge9 1
+    2300266: Hook
+    2300268: Keyhole_01
+    2300270: Keyhole_01 1
+    2300272: Keyhole_02
+    2300274: Keyhole_02 1
+    2300276: Mirror
+    2300278: Panel_01
+    2300280: Panel_01 1
+    2300282: Panel_02
+    2300284: Panel_02 1
+    2300286: Paper_Set_01
+    2300288: Paper_Set_02
+    2300290: Paper_Set_03
+    2300292: Paper_Set_04
+    2300294: Paper_Set_05
+    2300296: Projector
+    2300298: Projector_Board
+    2300300: Projector_Glass
+    2300302: Roof
+    2300304: Roof 1
+    2300306: Shelf_Base
+    2300308: Shelf_Base1
+    2300310: Shelf_Base1 1
+    2300312: Shelf_Base2
+    2300314: Side_Desk
+    2300316: Side_Desk3
+    2300318: Side_Desk4
+    2300320: Side_Desk5
+    2300322: Side_Table
+    2300324: Side_Table2
+    2300326: Sink
+    2300328: Slab
+    2300330: Speaker
+    2300332: Speakers
+    2300334: Speakers1
+    2300336: Switch
+    2300338: Tube
+    2300340: Wall 1
+    2300342: Wall 2
+    2300344: Window_01
+    2300346: Window_08
+    2300348: Window_09
+    2300350: Wooden
+    2300352: Wooden 1
+    2300354: Wooden1
+    2300356: Wooden1 1
+    2300358: Wordl_Map
+    3300000: Almira
+    3300002: Almira 1
+    3300004: Board_01_Base
+    3300006: Board_01_Panel
+    3300008: Board_02
+    3300010: Board_03
+    3300012: Book_Set_01
+    3300014: Book_Set_010
+    3300016: Book_Set_010 1
+    3300018: Book_Set_012
+    3300020: Book_Set_013
+    3300022: Book_Set_014
+    3300024: Book_Set_015
+    3300026: Book_Set_016
+    3300028: Book_Set_017
+    3300030: Book_Set_018
+    3300032: Book_Set_019
+    3300034: Book_Set_02
+    3300036: Book_Set_020
+    3300038: Book_Set_03
+    3300040: Book_Set_04
+    3300042: Book_Set_05
+    3300044: Book_Set_06
+    3300046: Book_Set_06 1
+    3300048: Book_Set_07
+    3300050: Book_Set_07 1
+    3300052: Book_Set_08
+    3300054: Book_Set_08 1
+    3300056: Book_Set_09
+    3300058: Box_01
+    3300060: Box_010
+    3300062: Box_011
+    3300064: Box_012
+    3300066: Box_013
+    3300068: Box_02
+    3300070: Box_03
+    3300072: Box_04
+    3300074: Box_05
+    3300076: Box_06
+    3300078: Box_07
+    3300080: Box_08
+    3300082: Box_09
+    3300084: Chair
+    3300086: Chair1
+    3300088: Chair10
+    3300090: Chair11
+    3300092: Chair12
+    3300094: Chair13
+    3300096: Chair14
+    3300098: Chair15
+    3300100: Chair16
+    3300102: Chair17
+    3300104: Chair18
+    3300106: Chair19
+    3300108: Chair2
+    3300110: Chair20
+    3300112: Chair21
+    3300114: Chair22
+    3300116: Chair23
+    3300118: Chair24
+    3300120: Chair25
+    3300122: Chair26
+    3300124: Chair27
+    3300126: Chair28
+    3300128: Chair3
+    3300130: Chair4
+    3300132: Chair5
+    3300134: Chair6
+    3300136: Chair7
+    3300138: Chair8
+    3300140: Chair9
+    3300142: Clock
+    3300144: Clock_Glass
+    3300146: Desk_01
+    3300148: Desk_010
+    3300150: Desk_011
+    3300152: Desk_012
+    3300154: Desk_013
+    3300156: Desk_014
+    3300158: Desk_015
+    3300160: Desk_016
+    3300162: Desk_02
+    3300164: Desk_03
+    3300166: Desk_04
+    3300168: Desk_05
+    3300170: Desk_06
+    3300172: Desk_07
+    3300174: Desk_08
+    3300176: Desk_09
+    3300178: Door 1
+    3300180: Door 2
+    3300182: Door_Panel
+    3300184: Door_Panel 1
+    3300186: Door_Panel1
+    3300188: Door_Panel1 1
+    3300190: Dust_Bin
+    3300192: File_Set_01
+    3300194: File_Set_02
+    3300196: File_Set_03
+    3300198: File_Set_03 1
+    3300200: File_Set_04
+    3300202: File_Set_06
+    3300204: File_Set_07
+    3300206: File_Set_08
+    3300208: First_Aid_Box
+    3300210: Floor
+    3300212: Floor 1
+    3300214: Glass
+    3300216: Handle_01
+    3300218: Handle_01 1
+    3300220: Handle_01 2
+    3300222: Handle_02
+    3300224: Handle_03
+    3300226: Handle_04
+    3300228: Handle_04 1
+    3300230: Hinge
+    3300232: Hinge1
+    3300234: Hinge2
+    3300236: Hinge26
+    3300238: Hinge27
+    3300240: Hinge28
+    3300242: Hinge28 1
+    3300244: Hinge29
+    3300246: Hinge29 1
+    3300248: Hinge3
+    3300250: Hinge4
+    3300252: Hinge5
+    3300254: Hinge6
+    3300256: Hinge7
+    3300258: Hinge8
+    3300260: Hinge8 1
+    3300262: Hinge9
+    3300264: Hinge9 1
+    3300266: Hook
+    3300268: Keyhole_01
+    3300270: Keyhole_01 1
+    3300272: Keyhole_02
+    3300274: Keyhole_02 1
+    3300276: Mirror
+    3300278: Panel_01
+    3300280: Panel_01 1
+    3300282: Panel_02
+    3300284: Panel_02 1
+    3300286: Paper_Set_01
+    3300288: Paper_Set_02
+    3300290: Paper_Set_03
+    3300292: Paper_Set_04
+    3300294: Paper_Set_05
+    3300296: Projector
+    3300298: Projector_Board
+    3300300: Projector_Glass
+    3300302: Roof
+    3300304: Roof 1
+    3300306: Shelf_Base
+    3300308: Shelf_Base1
+    3300310: Shelf_Base1 1
+    3300312: Shelf_Base2
+    3300314: Side_Desk
+    3300316: Side_Desk3
+    3300318: Side_Desk4
+    3300320: Side_Desk5
+    3300322: Side_Table
+    3300324: Side_Table2
+    3300326: Sink
+    3300328: Slab
+    3300330: Speaker
+    3300332: Speakers
+    3300334: Speakers1
+    3300336: Switch
+    3300338: Tube
+    3300340: Wall 1
+    3300342: Wall 2
+    3300344: Window_01
+    3300346: Window_08
+    3300348: Window_09
+    3300350: Wooden
+    3300352: Wooden 1
+    3300354: Wooden1
+    3300356: Wooden1 1
+    3300358: Wordl_Map
+    4300000: Floor
+    4300002: Roof
+    4300004: Wall
+    4300006: Glass
+    4300008: Tube
+    4300010: Door
+    4300012: Panel_01
+    4300014: Keyhole_01
+    4300016: Handle_01
+    4300018: Keyhole_02
+    4300020: Handle_04
+    4300022: Panel_02
+    4300024: Wooden
+    4300026: Door_Panel
+    4300028: Hinge8
+    4300030: Hinge9
+    4300032: Door_Panel1
+    4300034: Wooden1
+    4300036: Hinge28
+    4300038: Hinge29
+    4300040: Handle_01
+    4300042: Handle_02
+    4300044: Window_01
+    4300046: Slab
+    4300048: Hinge
+    4300050: Hook
+    4300052: Almira
+    4300054: Side_Desk
+    4300056: Desk_01
+    4300058: Desk_02
+    4300060: Desk_03
+    4300062: Side_Table
+    4300064: Chair
+    4300066: Wordl_Map
+    4300068: Board_03
+    4300070: Board_02
+    4300072: Projector_Board
+    4300074: Board_01_Base
+    4300076: Board_01_Panel
+    4300078: Paper_Set_02
+    4300080: Paper_Set_01
+    4300082: Shelf_Base
+    4300084: Book_Set_01
+    4300086: Book_Set_02
+    4300088: Book_Set_03
+    4300090: Book_Set_04
+    4300092: Book_Set_05
+    4300094: File_Set_01
+    4300096: File_Set_02
+    4300098: Box_01
+    4300100: Box_02
+    4300102: Box_03
+    4300104: Box_04
+    4300106: Speakers
+    4300108: Projector
+    4300110: Projector_Glass
+    4300112: Clock
+    4300114: Clock_Glass
+    4300116: Switch
+    4300118: Speaker
+    4300120: Mirror
+    4300122: Sink
+    4300124: Dust_Bin
+    4300126: First_Aid_Box
+    4300128: Handle_03
+    4300130: Hinge1
+    4300132: Hinge2
+    4300134: Hinge3
+    4300136: Hinge4
+    4300138: Hinge6
+    4300140: Hinge7
+    4300142: Hinge5
+    4300144: Hinge26
+    4300146: Hinge27
+    4300148: Side_Desk5
+    4300150: Side_Desk3
+    4300152: Side_Table2
+    4300154: Paper_Set_03
+    4300156: Shelf_Base1
+    4300158: Book_Set_06
+    4300160: Book_Set_07
+    4300162: Book_Set_08
+    4300164: Book_Set_09
+    4300166: Book_Set_010
+    4300168: File_Set_03
+    4300170: Box_07
+    4300172: Box_08
+    4300174: Speakers1
+    4300176: File_Set_06
+    4300178: Book_Set_013
+    4300180: Book_Set_014
+    4300182: Shelf_Base1
+    4300184: Book_Set_06
+    4300186: Book_Set_07
+    4300188: Book_Set_08
+    4300190: Book_Set_010
+    4300192: File_Set_03
+    4300194: File_Set_04
+    4300196: Box_05
+    4300198: Box_06
+    4300200: Book_Set_012
+    4300202: Box_09
+    4300204: Book_Set_015
+    4300206: Box_010
+    4300208: Chair1
+    4300210: Chair2
+    4300212: Chair3
+    4300214: Desk_04
+    4300216: Chair4
+    4300218: Chair5
+    4300220: Desk_05
+    4300222: Chair6
+    4300224: Chair7
+    4300226: Desk_06
+    4300228: Chair8
+    4300230: Chair9
+    4300232: Desk_07
+    4300234: Chair10
+    4300236: Chair11
+    4300238: Desk_08
+    4300240: Chair12
+    4300242: Chair13
+    4300244: Desk_09
+    4300246: Chair15
+    4300248: Chair16
+    4300250: Chair17
+    4300252: Desk_011
+    4300254: Chair18
+    4300256: Chair19
+    4300258: Desk_012
+    4300260: Chair20
+    4300262: Chair21
+    4300264: Desk_013
+    4300266: Chair23
+    4300268: Chair24
+    4300270: Chair25
+    4300272: Desk_015
+    4300274: Chair26
+    4300276: Chair27
+    4300278: Desk_016
+    4300280: Desk_010
+    4300282: Desk_014
+    4300284: Chair22
+    4300286: Chair14
+    4300288: Chair28
+    4300290: Window_08
+    4300292: Window_09
+    4300294: Almira
+    4300296: Side_Desk4
+    4300298: Shelf_Base2
+    4300300: Book_Set_016
+    4300302: Book_Set_017
+    4300304: Book_Set_018
+    4300306: Book_Set_019
+    4300308: Book_Set_020
+    4300310: File_Set_07
+    4300312: File_Set_08
+    4300314: Box_011
+    4300316: Box_012
+    4300318: Box_013
+    4300320: Paper_Set_05
+    4300322: Paper_Set_04
+    4300324: Door
+    4300326: Panel_01
+    4300328: Keyhole_01
+    4300330: Handle_01
+    4300332: Keyhole_02
+    4300334: Handle_04
+    4300336: Panel_02
+    4300338: Wooden
+    4300340: Door_Panel
+    4300342: Hinge8
+    4300344: Hinge9
+    4300346: Door_Panel1
+    4300348: Wooden1
+    4300350: Hinge28
+    4300352: Hinge29
+    4300354: Wall
+    4300356: Roof
+    4300358: Floor
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
