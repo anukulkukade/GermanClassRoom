@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: GameObject Profile
   m_EditorClassIdentifier: 
   settings:
-  - {fileID: 114155711172256050}
+  - {fileID: 114596797694802954}
   - {fileID: 114717393854295954}
   - {fileID: 114025242920761080}
   - {fileID: 114327751594104928}
@@ -43,7 +43,44 @@ MonoBehaviour:
   fastMode:
     overrideState: 0
     value: 0
---- !u!114 &114155711172256050
+--- !u!114 &114327751594104928
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a34fa72bd4185749832024e9c8010bf, type: 3}
+  m_Name: ScreenSpaceReflections
+  m_EditorClassIdentifier: 
+  active: 0
+  enabled:
+    overrideState: 1
+    value: 1
+  preset:
+    overrideState: 1
+    value: 6
+  maximumIterationCount:
+    overrideState: 0
+    value: 16
+  resolution:
+    overrideState: 0
+    value: 0
+  thickness:
+    overrideState: 0
+    value: 8
+  maximumMarchDistance:
+    overrideState: 0
+    value: 100
+  distanceFade:
+    overrideState: 0
+    value: 0.5
+  vignette:
+    overrideState: 0
+    value: 0.5
+--- !u!114 &114596797694802954
 MonoBehaviour:
   m_ObjectHideFlags: 3
   m_CorrespondingSourceObject: {fileID: 0}
@@ -55,7 +92,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: adb84e30e02715445aeb9959894e3b4d, type: 3}
   m_Name: ColorGrading
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   enabled:
     overrideState: 1
     value: 1
@@ -68,7 +105,7 @@ MonoBehaviour:
     defaultState: 1
   tonemapper:
     overrideState: 1
-    value: 1
+    value: 2
   toneCurveToeStrength:
     overrideState: 0
     value: 0
@@ -95,11 +132,11 @@ MonoBehaviour:
     overrideState: 0
     value: 1
   temperature:
-    overrideState: 1
-    value: 15
+    overrideState: 0
+    value: 0
   tint:
-    overrideState: 1
-    value: 10
+    overrideState: 0
+    value: 0
   colorFilter:
     overrideState: 0
     value: {r: 1, g: 1, b: 1, a: 1}
@@ -107,17 +144,17 @@ MonoBehaviour:
     overrideState: 0
     value: 0
   saturation:
-    overrideState: 1
-    value: 8
+    overrideState: 0
+    value: 0
   brightness:
     overrideState: 0
     value: 0
   postExposure:
-    overrideState: 1
-    value: 0.7
+    overrideState: 0
+    value: 0
   contrast:
-    overrideState: 1
-    value: -25
+    overrideState: 0
+    value: 0
   mixerRedOutRedIn:
     overrideState: 0
     value: 100
@@ -125,8 +162,8 @@ MonoBehaviour:
     overrideState: 0
     value: 0
   mixerRedOutBlueIn:
-    overrideState: 1
-    value: -10
+    overrideState: 0
+    value: 0
   mixerGreenOutRedIn:
     overrideState: 0
     value: 0
@@ -146,14 +183,14 @@ MonoBehaviour:
     overrideState: 0
     value: 100
   lift:
-    overrideState: 1
-    value: {x: 1, y: 1, z: 1, w: -0.12390562}
+    overrideState: 0
+    value: {x: 1, y: 1, z: 1, w: 0}
   gamma:
-    overrideState: 1
-    value: {x: 1, y: 1, z: 1, w: -0.04149377}
+    overrideState: 0
+    value: {x: 1, y: 1, z: 1, w: 0}
   gain:
-    overrideState: 1
-    value: {x: 1, y: 1, z: 1, w: -0.7883816}
+    overrideState: 0
+    value: {x: 1, y: 1, z: 1, w: 0}
   masterCurve:
     overrideState: 0
     value:
@@ -1354,43 +1391,6 @@ MonoBehaviour:
       - 0.5
       - 0.5
       - 0.5
---- !u!114 &114327751594104928
-MonoBehaviour:
-  m_ObjectHideFlags: 3
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a34fa72bd4185749832024e9c8010bf, type: 3}
-  m_Name: ScreenSpaceReflections
-  m_EditorClassIdentifier: 
-  active: 0
-  enabled:
-    overrideState: 1
-    value: 1
-  preset:
-    overrideState: 1
-    value: 6
-  maximumIterationCount:
-    overrideState: 0
-    value: 16
-  resolution:
-    overrideState: 0
-    value: 0
-  thickness:
-    overrideState: 0
-    value: 8
-  maximumMarchDistance:
-    overrideState: 0
-    value: 100
-  distanceFade:
-    overrideState: 0
-    value: 0.5
-  vignette:
-    overrideState: 0
-    value: 0.5
 --- !u!114 &114717393854295954
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -1412,18 +1412,18 @@ MonoBehaviour:
     value: 0.9
   threshold:
     overrideState: 1
-    value: 0.47
+    value: 0.7
   softKnee:
-    overrideState: 1
+    overrideState: 0
     value: 0.5
   clamp:
-    overrideState: 1
+    overrideState: 0
     value: 65472
   diffusion:
-    overrideState: 1
+    overrideState: 0
     value: 7
   anamorphicRatio:
-    overrideState: 1
+    overrideState: 0
     value: 0.49
   color:
     overrideState: 0
