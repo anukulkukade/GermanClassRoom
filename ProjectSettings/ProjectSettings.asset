@@ -600,6 +600,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -620,10 +621,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 5171de19-9fda-4a88-82ce-3a2636b56721
+  cloudProjectId: a7a52536-4dd0-4902-b09c-f374654e6d12
   framebufferDepthMemorylessMode: 0
   projectName: Classroom
-  organizationId: pratikpokale
+  organizationId: anukul-kukade
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

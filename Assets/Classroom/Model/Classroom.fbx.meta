@@ -575,6 +575,29 @@ ModelImporter:
     101138: polySurface2
     101140: Window_06
     101142: Window_07
+    101144: Handle_06
+    101146: Side_Desk5
+    101148: Window_010
+    101150: Window_011
+    101152: Ground
+    101154: polySurface10
+    101156: polySurface11
+    101158: polySurface12
+    101160: polySurface13
+    101162: polySurface14
+    101164: polySurface15
+    101166: polySurface16
+    101168: polySurface17
+    101170: polySurface18
+    101172: polySurface19
+    101174: polySurface20
+    101176: polySurface3
+    101178: polySurface4
+    101180: polySurface5
+    101182: polySurface6
+    101184: polySurface7
+    101186: polySurface8
+    101188: polySurface9
     400000: ' 1'
     400002: Arch35_035_03
     400004: Arch35_035_04
@@ -1147,6 +1170,29 @@ ModelImporter:
     401138: polySurface2
     401140: Window_06
     401142: Window_07
+    401144: Handle_06
+    401146: Side_Desk5
+    401148: Window_010
+    401150: Window_011
+    401152: Ground
+    401154: polySurface10
+    401156: polySurface11
+    401158: polySurface12
+    401160: polySurface13
+    401162: polySurface14
+    401164: polySurface15
+    401166: polySurface16
+    401168: polySurface17
+    401170: polySurface18
+    401172: polySurface19
+    401174: polySurface20
+    401176: polySurface3
+    401178: polySurface4
+    401180: polySurface5
+    401182: polySurface6
+    401184: polySurface7
+    401186: polySurface8
+    401188: polySurface9
     2100000: lambert1
     2100002: Default_Material
     2100004: glass
@@ -1163,6 +1209,7 @@ ModelImporter:
     2100026: Hallway_Floor
     2100028: Hallway_Wall
     2100030: Classroom_Environment
+    2100032: Classroom_Ground
     2300000: ' 1'
     2300002: Arch35_035_03
     2300004: Arch35_035_04
@@ -1710,6 +1757,29 @@ ModelImporter:
     2301088: polySurface2
     2301090: Window_06
     2301092: Window_07
+    2301094: Handle_06
+    2301096: Side_Desk5
+    2301098: Window_010
+    2301100: Window_011
+    2301102: Ground
+    2301104: polySurface10
+    2301106: polySurface11
+    2301108: polySurface12
+    2301110: polySurface13
+    2301112: polySurface14
+    2301114: polySurface15
+    2301116: polySurface16
+    2301118: polySurface17
+    2301120: polySurface18
+    2301122: polySurface19
+    2301124: polySurface20
+    2301126: polySurface3
+    2301128: polySurface4
+    2301130: polySurface5
+    2301132: polySurface6
+    2301134: polySurface7
+    2301136: polySurface8
+    2301138: polySurface9
     3300000: ' 1'
     3300002: Arch35_035_03
     3300004: Arch35_035_04
@@ -2257,6 +2327,29 @@ ModelImporter:
     3301088: polySurface2
     3301090: Window_06
     3301092: Window_07
+    3301094: Handle_06
+    3301096: Side_Desk5
+    3301098: Window_010
+    3301100: Window_011
+    3301102: Ground
+    3301104: polySurface10
+    3301106: polySurface11
+    3301108: polySurface12
+    3301110: polySurface13
+    3301112: polySurface14
+    3301114: polySurface15
+    3301116: polySurface16
+    3301118: polySurface17
+    3301120: polySurface18
+    3301122: polySurface19
+    3301124: polySurface20
+    3301126: polySurface3
+    3301128: polySurface4
+    3301130: polySurface5
+    3301132: polySurface6
+    3301134: polySurface7
+    3301136: polySurface8
+    3301138: polySurface9
     4300000: Object
     4300002: Object002
     4300004: Sphere014
@@ -2795,6 +2888,29 @@ ModelImporter:
     4301070: Window_07
     4301072: polySurface1
     4301074: polySurface2
+    4301076: Handle_06
+    4301078: Side_Desk5
+    4301080: Window_010
+    4301082: Window_011
+    4301084: Ground
+    4301086: polySurface3
+    4301088: polySurface4
+    4301090: polySurface5
+    4301092: polySurface6
+    4301094: polySurface7
+    4301096: polySurface8
+    4301098: polySurface9
+    4301100: polySurface10
+    4301102: polySurface11
+    4301104: polySurface12
+    4301106: polySurface13
+    4301108: polySurface14
+    4301110: polySurface15
+    4301112: polySurface16
+    4301114: polySurface17
+    4301116: polySurface18
+    4301118: polySurface19
+    4301120: polySurface20
   externalObjects:
   - first:
       type: UnityEngine:Material
