@@ -598,6 +598,21 @@ ModelImporter:
     101184: polySurface7
     101186: polySurface8
     101188: polySurface9
+    101190: BottleSet
+    101192: Extension
+    101194: Panel1
+    101196: Panel2
+    101198: PaperStand
+    101200: PaperStand1
+    101202: PaperStand2
+    101204: PenStand
+    101206: PunchHole
+    101208: Stapler
+    101210: Stationery
+    101212: Panel_01
+    101214: Panel_02
+    101216: Panel_03
+    101218: Desk_029
     400000: ' 1'
     400002: Arch35_035_03
     400004: Arch35_035_04
@@ -1193,6 +1208,21 @@ ModelImporter:
     401184: polySurface7
     401186: polySurface8
     401188: polySurface9
+    401190: BottleSet
+    401192: Extension
+    401194: Panel1
+    401196: Panel2
+    401198: PaperStand
+    401200: PaperStand1
+    401202: PaperStand2
+    401204: PenStand
+    401206: PunchHole
+    401208: Stapler
+    401210: Stationery
+    401212: Panel_01
+    401214: Panel_02
+    401216: Panel_03
+    401218: Desk_029
     2100000: lambert1
     2100002: Default_Material
     2100004: glass
@@ -1210,6 +1240,7 @@ ModelImporter:
     2100028: Hallway_Wall
     2100030: Classroom_Environment
     2100032: Classroom_Ground
+    2100034: Classroom_Stationery
     2300000: ' 1'
     2300002: Arch35_035_03
     2300004: Arch35_035_04
@@ -1780,6 +1811,20 @@ ModelImporter:
     2301134: polySurface7
     2301136: polySurface8
     2301138: polySurface9
+    2301140: BottleSet
+    2301142: Extension
+    2301144: Panel1
+    2301146: Panel2
+    2301148: PaperStand
+    2301150: PaperStand1
+    2301152: PaperStand2
+    2301154: PenStand
+    2301156: PunchHole
+    2301158: Stapler
+    2301160: Panel_01
+    2301162: Panel_02
+    2301164: Panel_03
+    2301166: Desk_029
     3300000: ' 1'
     3300002: Arch35_035_03
     3300004: Arch35_035_04
@@ -2350,6 +2395,20 @@ ModelImporter:
     3301134: polySurface7
     3301136: polySurface8
     3301138: polySurface9
+    3301140: BottleSet
+    3301142: Extension
+    3301144: Panel1
+    3301146: Panel2
+    3301148: PaperStand
+    3301150: PaperStand1
+    3301152: PaperStand2
+    3301154: PenStand
+    3301156: PunchHole
+    3301158: Stapler
+    3301160: Panel_01
+    3301162: Panel_02
+    3301164: Panel_03
+    3301166: Desk_029
     4300000: Object
     4300002: Object002
     4300004: Sphere014
@@ -2911,6 +2970,21 @@ ModelImporter:
     4301116: polySurface18
     4301118: polySurface19
     4301120: polySurface20
+    4301122: Extension
+    4301124: PaperStand
+    4301126: PenStand
+    4301128: PunchHole
+    4301130: Stapler
+    4301132: BottleSet
+    4301134: Panel1
+    4301136: Panel2
+    4301138: PaperStand1
+    4301140: PaperStand2
+    4301142: Panel
+    4301144: Panel_01
+    4301146: Panel_02
+    4301148: Panel_03
+    4301150: Desk_029
   externalObjects:
   - first:
       type: UnityEngine:Material
