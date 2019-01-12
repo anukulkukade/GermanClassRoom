@@ -12,6 +12,7 @@ ModelImporter:
     100012: Medium_Skinned_Boy_Jeans
     100014: Medium_Skinned_Boy_Shoe
     100016: Medium_Skinned_Boy_Top
+    100018: Medium_Skinned_Boy 1
     400000: //RootNode
     400002: Medium_Skinned_Boy_Body
     400004: Medium_Skinned_Boy_Eye
@@ -21,6 +22,7 @@ ModelImporter:
     400012: Medium_Skinned_Boy_Jeans
     400014: Medium_Skinned_Boy_Shoe
     400016: Medium_Skinned_Boy_Top
+    400018: Medium_Skinned_Boy 1
     2100000: MI_Medium_Skinned_Boy_Body
     2100002: MI_Medium_Skinned_Boy_Eye
     2100004: MI_Medium_Skinned_Boy_Eyebrow
