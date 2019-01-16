@@ -1,95 +1,239 @@
 fileFormatVersion: 2
-guid: ed9bbab78ccd91c4781f07985155fa10
+guid: bf6a211301316a542a8966451e2c41d5
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Dark_skinned_girl_Body
-    100004: Dark_skinned_girl_cloths
-    100006: Dark_skinned_girl_eyeball
-    100008: Dark_skinned_girl_eyebrow
-    100010: Dark_skinned_girl_eyelash
-    100012: Dark_skinned_girl_Hair
-    100014: Dark_skinned_girl_Shoes
-    400000: //RootNode
-    400002: Dark_skinned_girl_Body
-    400004: Dark_skinned_girl_cloths
-    400006: Dark_skinned_girl_eyeball
-    400008: Dark_skinned_girl_eyebrow
-    400010: Dark_skinned_girl_eyelash
-    400012: Dark_skinned_girl_Hair
-    400014: Dark_skinned_girl_Shoes
-    2100000: Dark_skinned_girl_cloths
-    2100002: Medium_skinned_girl_Shoes
-    2100004: Dark_skinned_girl_Body
-    2100006: Dark_skinned_girl_eyebrow
-    2100008: Dark_skinned_girl_eyelash
-    2100010: Dark_skinned_girl_eyeball
-    2100012: Dark_skinned_girl_Hairs
-    2100014: 08 - Default
-    2300000: Dark_skinned_girl_Body
-    2300002: Dark_skinned_girl_cloths
-    2300004: Dark_skinned_girl_eyeball
-    2300006: Dark_skinned_girl_eyebrow
-    2300008: Dark_skinned_girl_eyelash
-    2300010: Dark_skinned_girl_Hair
-    2300012: Dark_skinned_girl_Shoes
-    3300000: Dark_skinned_girl_Body
-    3300002: Dark_skinned_girl_cloths
-    3300004: Dark_skinned_girl_eyeball
-    3300006: Dark_skinned_girl_eyebrow
-    3300008: Dark_skinned_girl_eyelash
-    3300010: Dark_skinned_girl_Hair
-    3300012: Dark_skinned_girl_Shoes
-    4300000: Dark_skinned_girl_cloths
-    4300002: Dark_skinned_girl_Shoes
-    4300004: Dark_skinned_girl_Body
-    4300006: Dark_skinned_girl_eyebrow
-    4300008: Dark_skinned_girl_eyelash
-    4300010: Dark_skinned_girl_eyeball
-    4300012: Dark_skinned_girl_Hair
+    100000: Dark_skinned_girl_Body
+    100002: Dark_skinned_girl_cloths
+    100004: Dark_skinned_girl_eyeball
+    100006: Dark_skinned_girl_eyebrow
+    100008: Dark_skinned_girl_eyelash
+    100010: Dark_skinned_girl_Hair
+    100012: Dark_skinned_girl_Shoes
+    100014: mixamorig:Head
+    100016: mixamorig:HeadTop_End
+    100018: mixamorig:Hips
+    100020: mixamorig:LeftArm
+    100022: mixamorig:LeftFoot
+    100024: mixamorig:LeftForeArm
+    100026: mixamorig:LeftHand
+    100028: mixamorig:LeftHandIndex1
+    100030: mixamorig:LeftHandIndex2
+    100032: mixamorig:LeftHandIndex3
+    100034: mixamorig:LeftHandIndex4
+    100036: mixamorig:LeftHandMiddle1
+    100038: mixamorig:LeftHandMiddle2
+    100040: mixamorig:LeftHandMiddle3
+    100042: mixamorig:LeftHandMiddle4
+    100044: mixamorig:LeftHandRing1
+    100046: mixamorig:LeftHandRing2
+    100048: mixamorig:LeftHandRing3
+    100050: mixamorig:LeftHandRing4
+    100052: mixamorig:LeftHandThumb1
+    100054: mixamorig:LeftHandThumb2
+    100056: mixamorig:LeftHandThumb3
+    100058: mixamorig:LeftHandThumb4
+    100060: mixamorig:LeftLeg
+    100062: mixamorig:LeftShoulder
+    100064: mixamorig:LeftToe_End
+    100066: mixamorig:LeftToeBase
+    100068: mixamorig:LeftUpLeg
+    100070: mixamorig:Neck
+    100072: mixamorig:RightArm
+    100074: mixamorig:RightFoot
+    100076: mixamorig:RightForeArm
+    100078: mixamorig:RightHand
+    100080: mixamorig:RightHandIndex1
+    100082: mixamorig:RightHandIndex2
+    100084: mixamorig:RightHandIndex3
+    100086: mixamorig:RightHandIndex4
+    100088: mixamorig:RightHandMiddle1
+    100090: mixamorig:RightHandMiddle2
+    100092: mixamorig:RightHandMiddle3
+    100094: mixamorig:RightHandMiddle4
+    100096: mixamorig:RightHandRing1
+    100098: mixamorig:RightHandRing2
+    100100: mixamorig:RightHandRing3
+    100102: mixamorig:RightHandRing4
+    100104: mixamorig:RightHandThumb1
+    100106: mixamorig:RightHandThumb2
+    100108: mixamorig:RightHandThumb3
+    100110: mixamorig:RightHandThumb4
+    100112: mixamorig:RightLeg
+    100114: mixamorig:RightShoulder
+    100116: mixamorig:RightToe_End
+    100118: mixamorig:RightToeBase
+    100120: mixamorig:RightUpLeg
+    100122: mixamorig:Spine
+    100124: mixamorig:Spine1
+    100126: mixamorig:Spine2
+    100128: //RootNode
+    100130: Dark_Skinned_Girl
+    100132: Dark_Skinned_Girl_Body
+    100134: Dark_Skinned_Girl_Cloths
+    100136: Dark_Skinned_Girl_Eyeball
+    100138: Dark_Skinned_Girl_Eyebrow
+    100140: Dark_Skinned_Girl_Eyelash
+    100142: Dark_Skinned_Girl_Hair
+    100144: Dark_Skinned_Girl_Shoes
+    400000: Dark_skinned_girl_Body
+    400002: Dark_skinned_girl_cloths
+    400004: Dark_skinned_girl_eyeball
+    400006: Dark_skinned_girl_eyebrow
+    400008: Dark_skinned_girl_eyelash
+    400010: Dark_skinned_girl_Hair
+    400012: Dark_skinned_girl_Shoes
+    400014: mixamorig:Head
+    400016: mixamorig:HeadTop_End
+    400018: mixamorig:Hips
+    400020: mixamorig:LeftArm
+    400022: mixamorig:LeftFoot
+    400024: mixamorig:LeftForeArm
+    400026: mixamorig:LeftHand
+    400028: mixamorig:LeftHandIndex1
+    400030: mixamorig:LeftHandIndex2
+    400032: mixamorig:LeftHandIndex3
+    400034: mixamorig:LeftHandIndex4
+    400036: mixamorig:LeftHandMiddle1
+    400038: mixamorig:LeftHandMiddle2
+    400040: mixamorig:LeftHandMiddle3
+    400042: mixamorig:LeftHandMiddle4
+    400044: mixamorig:LeftHandRing1
+    400046: mixamorig:LeftHandRing2
+    400048: mixamorig:LeftHandRing3
+    400050: mixamorig:LeftHandRing4
+    400052: mixamorig:LeftHandThumb1
+    400054: mixamorig:LeftHandThumb2
+    400056: mixamorig:LeftHandThumb3
+    400058: mixamorig:LeftHandThumb4
+    400060: mixamorig:LeftLeg
+    400062: mixamorig:LeftShoulder
+    400064: mixamorig:LeftToe_End
+    400066: mixamorig:LeftToeBase
+    400068: mixamorig:LeftUpLeg
+    400070: mixamorig:Neck
+    400072: mixamorig:RightArm
+    400074: mixamorig:RightFoot
+    400076: mixamorig:RightForeArm
+    400078: mixamorig:RightHand
+    400080: mixamorig:RightHandIndex1
+    400082: mixamorig:RightHandIndex2
+    400084: mixamorig:RightHandIndex3
+    400086: mixamorig:RightHandIndex4
+    400088: mixamorig:RightHandMiddle1
+    400090: mixamorig:RightHandMiddle2
+    400092: mixamorig:RightHandMiddle3
+    400094: mixamorig:RightHandMiddle4
+    400096: mixamorig:RightHandRing1
+    400098: mixamorig:RightHandRing2
+    400100: mixamorig:RightHandRing3
+    400102: mixamorig:RightHandRing4
+    400104: mixamorig:RightHandThumb1
+    400106: mixamorig:RightHandThumb2
+    400108: mixamorig:RightHandThumb3
+    400110: mixamorig:RightHandThumb4
+    400112: mixamorig:RightLeg
+    400114: mixamorig:RightShoulder
+    400116: mixamorig:RightToe_End
+    400118: mixamorig:RightToeBase
+    400120: mixamorig:RightUpLeg
+    400122: mixamorig:Spine
+    400124: mixamorig:Spine1
+    400126: mixamorig:Spine2
+    400128: //RootNode
+    400130: Dark_Skinned_Girl
+    400132: Dark_Skinned_Girl_Body
+    400134: Dark_Skinned_Girl_Cloths
+    400136: Dark_Skinned_Girl_Eyeball
+    400138: Dark_Skinned_Girl_Eyebrow
+    400140: Dark_Skinned_Girl_Eyelash
+    400142: Dark_Skinned_Girl_Hair
+    400144: Dark_Skinned_Girl_Shoes
+    2100000: Medium_skinned_girl_Shoes
+    2100002: Dark_skinned_girl_Body
+    2100004: Dark_skinned_girl_eyebrow
+    2100006: Dark_skinned_girl_eyelash
+    2100008: Dark_skinned_girl_eyeball
+    2100010: Dark_skinned_girl_Hairs
+    2100012: Dark_skinned_girl_cloths
+    2100014: Dark_Skinned_Girl_Shoes
+    2100016: Dark_Skinned_Girl_Body
+    2100018: Dark_Skinned_Girl_Eyebrow
+    2100020: Dark_Skinned_Girl_Eyelash
+    2100022: Dark_Skinned_Girl_Eyeball
+    2100024: Dark_Skinned_Girl_Hair
+    2100026: Dark_Skinned_Girl_Cloths
+    4300000: Dark_skinned_girl_Shoes
+    4300002: Dark_skinned_girl_Body
+    4300004: Dark_skinned_girl_eyebrow
+    4300006: Dark_skinned_girl_eyelash
+    4300008: Dark_skinned_girl_eyeball
+    4300010: Dark_skinned_girl_Hair
+    4300012: Dark_skinned_girl_cloths
+    4300014: Dark_Skinned_Girl_Shoes
+    4300016: Dark_Skinned_Girl_Body
+    4300018: Dark_Skinned_Girl_Eyebrow
+    4300020: Dark_Skinned_Girl_Eyelash
+    4300022: Dark_Skinned_Girl_Eyeball
+    4300024: Dark_Skinned_Girl_Hair
+    4300026: Dark_Skinned_Girl_Cloths
     7400000: Take 001
+    7400002: mixamo.com
     9500000: //RootNode
+    13700000: Dark_skinned_girl_Body
+    13700002: Dark_skinned_girl_cloths
+    13700004: Dark_skinned_girl_eyeball
+    13700006: Dark_skinned_girl_eyebrow
+    13700008: Dark_skinned_girl_eyelash
+    13700010: Dark_skinned_girl_Hair
+    13700012: Dark_skinned_girl_Shoes
+    13700014: Dark_Skinned_Girl_Body
+    13700016: Dark_Skinned_Girl_Cloths
+    13700018: Dark_Skinned_Girl_Eyeball
+    13700020: Dark_Skinned_Girl_Eyebrow
+    13700022: Dark_Skinned_Girl_Eyelash
+    13700024: Dark_Skinned_Girl_Hair
+    13700026: Dark_Skinned_Girl_Shoes
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Dark_skinned_girl_Body
+      name: Dark_Skinned_Girl_Body
     second: {fileID: 2100000, guid: 62437d401cd8a31419ae6ba7d513c355, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Dark_skinned_girl_Hairs
-    second: {fileID: 2100000, guid: 69f50da3374c0d342a111eb1abd8e615, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Dark_skinned_girl_cloths
+      name: Dark_Skinned_Girl_Cloths
     second: {fileID: 2100000, guid: cbb0cfbbba497694284c740c2d2a8f08, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Dark_skinned_girl_eyeball
+      name: Dark_Skinned_Girl_Eyeball
     second: {fileID: 2100000, guid: c9591baf9c62c8345aa57a1e43e68c2f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Dark_skinned_girl_eyebrow
+      name: Dark_Skinned_Girl_Eyebrow
     second: {fileID: 2100000, guid: d83d99c9117b05b4491e02b0a52d672d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Dark_skinned_girl_eyelash
+      name: Dark_Skinned_Girl_Eyelash
     second: {fileID: 2100000, guid: 7aa1af4d79918f641b56f58a51215fc6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Medium_skinned_girl_Shoes
+      name: Dark_Skinned_Girl_Hair
+    second: {fileID: 2100000, guid: a277e7f3c55a26b4190c85a9808d4846, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Skinned_Girl_Shoes
     second: {fileID: 2100000, guid: 8e2f8d33d74ef3a4cb767d62f313a314, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
-    materialSearch: 1
+    materialName: 1
+    materialSearch: 2
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
@@ -137,7 +281,7 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
+    previousCalculatedGlobalScale: 0.01
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60

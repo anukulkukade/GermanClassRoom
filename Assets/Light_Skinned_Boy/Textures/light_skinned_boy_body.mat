@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: light_skinned_boy_body
+  m_Name: Light_Skinned_Boy_Body
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _METALLICGLOSSMAP _NORMALMAP
   m_LightmapFlags: 4
@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 572215d2de469664f9f3013158b610e5, type: 3}
+        m_Texture: {fileID: 2800000, guid: 59de1ba74d10f38488829336b5a8d6cb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -40,15 +40,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: da02494660dbf7a4ea0df6790622587d, type: 3}
+        m_Texture: {fileID: 2800000, guid: a26918157c2b14741830572a1b889e6e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: b30d2708ba9bbf643a93df06ed4b6518, type: 3}
+        m_Texture: {fileID: 2800000, guid: 67913211d8a18db45b6352b2e87852f8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: fced7aebfbd3432429be456b93b98fd9, type: 3}
+        m_Texture: {fileID: 2800000, guid: 68d9c1a9238d9c545b015f0a650bdcbc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:

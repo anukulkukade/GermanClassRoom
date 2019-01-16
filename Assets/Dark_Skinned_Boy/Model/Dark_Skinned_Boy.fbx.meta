@@ -1,24 +1,156 @@
 fileFormatVersion: 2
-guid: c877f441dfc618046b7859c027a6bbcf
+guid: 158236762a0977e4f8f036983bcb21b2
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Dark_Skinned_Boy_Body
-    100004: Dark_Skinned_Boy_Eye
-    100006: Dark_Skinned_Boy_Eyebrow
-    100008: Dark_Skinned_Boy_Eyelash
-    100010: Dark_Skinned_Boy_Jeans
-    100012: Dark_Skinned_Boy_Shoes
-    100014: Dark_Skinned_Boy_Top
-    400000: //RootNode
-    400002: Dark_Skinned_Boy_Body
-    400004: Dark_Skinned_Boy_Eye
-    400006: Dark_Skinned_Boy_Eyebrow
-    400008: Dark_Skinned_Boy_Eyelash
-    400010: Dark_Skinned_Boy_Jeans
-    400012: Dark_Skinned_Boy_Shoes
-    400014: Dark_Skinned_Boy_Top
+    100000: Dark_Skinned_Boy
+    100002: //RootNode
+    100004: Dark_Skinned_Boy_Body
+    100006: Dark_Skinned_Boy_Eye
+    100008: Dark_Skinned_Boy_Eyebrow
+    100010: Dark_Skinned_Boy_Eyelash
+    100012: Dark_Skinned_Boy_Jeans
+    100014: Dark_Skinned_Boy_Shoes
+    100016: Dark_Skinned_Boy_Top
+    100018: mixamorig:Head
+    100020: mixamorig:HeadTop_End
+    100022: mixamorig:Hips
+    100024: mixamorig:LeftArm
+    100026: mixamorig:LeftFoot
+    100028: mixamorig:LeftForeArm
+    100030: mixamorig:LeftHand
+    100032: mixamorig:LeftHandIndex1
+    100034: mixamorig:LeftHandIndex2
+    100036: mixamorig:LeftHandIndex3
+    100038: mixamorig:LeftHandIndex4
+    100040: mixamorig:LeftHandMiddle1
+    100042: mixamorig:LeftHandMiddle2
+    100044: mixamorig:LeftHandMiddle3
+    100046: mixamorig:LeftHandMiddle4
+    100048: mixamorig:LeftHandPinky1
+    100050: mixamorig:LeftHandPinky2
+    100052: mixamorig:LeftHandPinky3
+    100054: mixamorig:LeftHandPinky4
+    100056: mixamorig:LeftHandRing1
+    100058: mixamorig:LeftHandRing2
+    100060: mixamorig:LeftHandRing3
+    100062: mixamorig:LeftHandRing4
+    100064: mixamorig:LeftHandThumb1
+    100066: mixamorig:LeftHandThumb2
+    100068: mixamorig:LeftHandThumb3
+    100070: mixamorig:LeftHandThumb4
+    100072: mixamorig:LeftLeg
+    100074: mixamorig:LeftShoulder
+    100076: mixamorig:LeftToe_End
+    100078: mixamorig:LeftToeBase
+    100080: mixamorig:LeftUpLeg
+    100082: mixamorig:Neck
+    100084: mixamorig:RightArm
+    100086: mixamorig:RightFoot
+    100088: mixamorig:RightForeArm
+    100090: mixamorig:RightHand
+    100092: mixamorig:RightHandIndex1
+    100094: mixamorig:RightHandIndex2
+    100096: mixamorig:RightHandIndex3
+    100098: mixamorig:RightHandIndex4
+    100100: mixamorig:RightHandMiddle1
+    100102: mixamorig:RightHandMiddle2
+    100104: mixamorig:RightHandMiddle3
+    100106: mixamorig:RightHandMiddle4
+    100108: mixamorig:RightHandPinky1
+    100110: mixamorig:RightHandPinky2
+    100112: mixamorig:RightHandPinky3
+    100114: mixamorig:RightHandPinky4
+    100116: mixamorig:RightHandRing1
+    100118: mixamorig:RightHandRing2
+    100120: mixamorig:RightHandRing3
+    100122: mixamorig:RightHandRing4
+    100124: mixamorig:RightHandThumb1
+    100126: mixamorig:RightHandThumb2
+    100128: mixamorig:RightHandThumb3
+    100130: mixamorig:RightHandThumb4
+    100132: mixamorig:RightLeg
+    100134: mixamorig:RightShoulder
+    100136: mixamorig:RightToe_End
+    100138: mixamorig:RightToeBase
+    100140: mixamorig:RightUpLeg
+    100142: mixamorig:Spine
+    100144: mixamorig:Spine1
+    100146: mixamorig:Spine2
+    400000: Dark_Skinned_Boy
+    400002: //RootNode
+    400004: Dark_Skinned_Boy_Body
+    400006: Dark_Skinned_Boy_Eye
+    400008: Dark_Skinned_Boy_Eyebrow
+    400010: Dark_Skinned_Boy_Eyelash
+    400012: Dark_Skinned_Boy_Jeans
+    400014: Dark_Skinned_Boy_Shoes
+    400016: Dark_Skinned_Boy_Top
+    400018: mixamorig:Head
+    400020: mixamorig:HeadTop_End
+    400022: mixamorig:Hips
+    400024: mixamorig:LeftArm
+    400026: mixamorig:LeftFoot
+    400028: mixamorig:LeftForeArm
+    400030: mixamorig:LeftHand
+    400032: mixamorig:LeftHandIndex1
+    400034: mixamorig:LeftHandIndex2
+    400036: mixamorig:LeftHandIndex3
+    400038: mixamorig:LeftHandIndex4
+    400040: mixamorig:LeftHandMiddle1
+    400042: mixamorig:LeftHandMiddle2
+    400044: mixamorig:LeftHandMiddle3
+    400046: mixamorig:LeftHandMiddle4
+    400048: mixamorig:LeftHandPinky1
+    400050: mixamorig:LeftHandPinky2
+    400052: mixamorig:LeftHandPinky3
+    400054: mixamorig:LeftHandPinky4
+    400056: mixamorig:LeftHandRing1
+    400058: mixamorig:LeftHandRing2
+    400060: mixamorig:LeftHandRing3
+    400062: mixamorig:LeftHandRing4
+    400064: mixamorig:LeftHandThumb1
+    400066: mixamorig:LeftHandThumb2
+    400068: mixamorig:LeftHandThumb3
+    400070: mixamorig:LeftHandThumb4
+    400072: mixamorig:LeftLeg
+    400074: mixamorig:LeftShoulder
+    400076: mixamorig:LeftToe_End
+    400078: mixamorig:LeftToeBase
+    400080: mixamorig:LeftUpLeg
+    400082: mixamorig:Neck
+    400084: mixamorig:RightArm
+    400086: mixamorig:RightFoot
+    400088: mixamorig:RightForeArm
+    400090: mixamorig:RightHand
+    400092: mixamorig:RightHandIndex1
+    400094: mixamorig:RightHandIndex2
+    400096: mixamorig:RightHandIndex3
+    400098: mixamorig:RightHandIndex4
+    400100: mixamorig:RightHandMiddle1
+    400102: mixamorig:RightHandMiddle2
+    400104: mixamorig:RightHandMiddle3
+    400106: mixamorig:RightHandMiddle4
+    400108: mixamorig:RightHandPinky1
+    400110: mixamorig:RightHandPinky2
+    400112: mixamorig:RightHandPinky3
+    400114: mixamorig:RightHandPinky4
+    400116: mixamorig:RightHandRing1
+    400118: mixamorig:RightHandRing2
+    400120: mixamorig:RightHandRing3
+    400122: mixamorig:RightHandRing4
+    400124: mixamorig:RightHandThumb1
+    400126: mixamorig:RightHandThumb2
+    400128: mixamorig:RightHandThumb3
+    400130: mixamorig:RightHandThumb4
+    400132: mixamorig:RightLeg
+    400134: mixamorig:RightShoulder
+    400136: mixamorig:RightToe_End
+    400138: mixamorig:RightToeBase
+    400140: mixamorig:RightUpLeg
+    400142: mixamorig:Spine
+    400144: mixamorig:Spine1
+    400146: mixamorig:Spine2
     2100000: M_Dark_Skinned_Boy_Body
     2100002: M_Dark_Skinned_Boy_Eye
     2100004: M_Dark_Skinned_Boy_Shoes
@@ -26,23 +158,13 @@ ModelImporter:
     2100008: M_Dark_Skinned_Boy_Jeans
     2100010: M_Dark_Skinned_Boy_Eyebrow
     2100012: M_Dark_Skinned_Boy_Eyelash
-    2100014: dark_skinned_boy
-    2300000: Dark_Skinned_Boy_Body
-    2300002: Dark_Skinned_Boy_Eye
-    2300004: Dark_Skinned_Boy_Eyebrow
-    2300006: Dark_Skinned_Boy_Eyelash
-    2300008: Dark_Skinned_Boy_Jeans
-    2300010: Dark_Skinned_Boy_Shoes
-    2300012: Dark_Skinned_Boy_Top
-    2300014: //RootNode
-    3300000: Dark_Skinned_Boy_Body
-    3300002: Dark_Skinned_Boy_Eye
-    3300004: Dark_Skinned_Boy_Eyebrow
-    3300006: Dark_Skinned_Boy_Eyelash
-    3300008: Dark_Skinned_Boy_Jeans
-    3300010: Dark_Skinned_Boy_Shoes
-    3300012: Dark_Skinned_Boy_Top
-    3300014: //RootNode
+    2100014: Dark_Skinned_Boy_Body
+    2100016: Dark_Skinned_Boy_Eye
+    2100018: Dark_Skinned_Boy_Shoes
+    2100020: Dark_Skinned_Boy_Top
+    2100022: Dark_Skinned_Boy_Jeans
+    2100024: Dark_Skinned_Boy_Eyebrow
+    2100026: Dark_Skinned_Boy_Eyelash
     4300000: Dark_Skinned_Boy_Body
     4300002: Dark_Skinned_Boy_Eye
     4300004: Dark_Skinned_Boy_Shoes
@@ -50,11 +172,55 @@ ModelImporter:
     4300008: Dark_Skinned_Boy_Jeans
     4300010: Dark_Skinned_Boy_Eyebrow
     4300012: Dark_Skinned_Boy_Eyelash
-  externalObjects: {}
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: Dark_Skinned_Boy_Body
+    13700002: Dark_Skinned_Boy_Eye
+    13700004: Dark_Skinned_Boy_Eyebrow
+    13700006: Dark_Skinned_Boy_Eyelash
+    13700008: Dark_Skinned_Boy_Jeans
+    13700010: Dark_Skinned_Boy_Shoes
+    13700012: Dark_Skinned_Boy_Top
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Skinned_Boy_Body
+    second: {fileID: 2100000, guid: de607de1925d84142b08f4b1d1f91221, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Skinned_Boy_Eye
+    second: {fileID: 2100000, guid: 14571010efc60a64598b83cb090ee8ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Skinned_Boy_Eyebrow
+    second: {fileID: 2100000, guid: 647a53a475b2a7147bb7bc6267d8606f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Skinned_Boy_Eyelash
+    second: {fileID: 2100000, guid: ad740b185414bf344a9b4c182226b9d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Skinned_Boy_Jeans
+    second: {fileID: 2100000, guid: 8c7d3718f5df20b4fad66faef3142d1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Skinned_Boy_Shoes
+    second: {fileID: 2100000, guid: 1e60823848f12cc4fb2b41ca6e4e869c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Skinned_Boy_Top
+    second: {fileID: 2100000, guid: 33af5993f604ca442bdcc586af00af88, type: 2}
   materials:
     importMaterials: 1
-    materialName: 0
-    materialSearch: 1
+    materialName: 1
+    materialSearch: 2
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
@@ -102,8 +268,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -130,7 +296,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
