@@ -130,6 +130,7 @@ ModelImporter:
     13700010: Light_Skinned_Boy_02_Hair
     13700012: Light_Skinned_Boy_02_Shoes
     13700014: Light_Skinned_Boy_02_Top
+    2186277476908879412: ImportLogs
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -182,7 +183,8 @@ ModelImporter:
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
-    rigImportErrors: 
+    rigImportErrors: "Avatar creation failed:\n\tTransform 'mixamorig:Hips' for human
+      bone 'Hips' not found\n"
     rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
