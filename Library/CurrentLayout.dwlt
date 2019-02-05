@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 133
+  controlID: 141
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -67,8 +67,8 @@ MonoBehaviour:
     y: 0
     width: 389
     height: 947
-  m_MinSize: {x: 277, y: 74}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 134
+  controlID: 142
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -243,7 +243,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 135
+  controlID: 143
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -336,20 +336,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Characters/Light_Skinned_Girl_02/Model
+    - Assets/Characters/Light_Skinned_Girl_03/Model
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Characters/Light_Skinned_Girl_02/Model
+  - Assets/Characters/Light_Skinned_Girl_03/Model
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\GermanClassRoom
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 247}
-    m_SelectedIDs: d8480000
-    m_LastClickedID: 18648
-    m_ExpandedIDs: 00000000d20b0000e00b0000f211000032120000c8160000d648000000ca9a3b
+    scrollPos: {x: 0, y: 307}
+    m_SelectedIDs: 24480000
+    m_LastClickedID: 18468
+    m_ExpandedIDs: 00000000d40b0000e20b0000181100003a1200007c120000d81300002a1700001e48000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -377,7 +377,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d20b0000f211000032120000c8160000
+    m_ExpandedIDs: 00000000d40b0000e20b0000181100003a1200007c1200002a170000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -405,7 +405,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000
+    m_ExpandedInstanceIDs: c623000090480000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -496,9 +496,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 464a0000
+      m_SelectedIDs: 90480000
       m_LastClickedID: 0
-      m_ExpandedIDs: 6c83ffff8888ffff8c88ffff9088ffff9888ffff9c88ffffa088ffffa888ffffac88ffffb088ffffb888ffffbc88ffffc088ffffc888ffffcc88ffffd088ffffd488ffffd888ffffdc88ffffe088ffffe888ffffec88fffff488fffff888fffffc88ffff0489ffff0889ffff0c89ffff1489ffff1889ffff1c89ffff2489ffff2889ffff2c89ffff3489ffff3889ffff3c89ffff4089ffff4489ffff4889ffff4c89ffff5089ffff5489ffff5889ffff6089ffff6489ffff6889ffff6c89ffff7489ffff7889ffff7c89ffff8089ffff8489ffffb889ffffbe89ffffee89ffff10f6ffff2ef7ffff30f7ffffd4fbffff
+      m_ExpandedIDs: 607effffaa83ffffae83ffffb283ffffba83ffffbe83ffffc283ffffca83ffffce83ffffd283ffffda83ffffde83ffffe283ffffea83ffffee83fffff283fffff683fffffa83fffffe83ffff0284ffff0a84ffff0e84ffff1684ffff1a84ffff1e84ffff2684ffff2a84ffff2e84ffff3684ffff3a84ffff3e84ffff4684ffff4a84ffff4e84ffff5684ffff5a84ffff5e84ffff6284ffff6684ffff6a84ffff6e84ffff7284ffff7684ffff7a84ffff8284ffff8684ffff8a84ffff8e84ffff9684ffff9a84ffff9e84ffffa284ffffa684ffffe084ffffe684ffff1885ffffd4fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -553,9 +553,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.0388176, y: 1.34734, z: -2.929798}
+    m_Target: {x: 0.49586296, y: -0.09456301, z: 0.34470344}
     speed: 2
-    m_Value: {x: -1.0388176, y: 1.34734, z: -2.929798}
+    m_Value: {x: 0.49586296, y: -0.09456301, z: 0.34470344}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -583,13 +583,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.02514528, y: 0.9690259, z: -0.21904518, w: 0.11124626}
+    m_Target: {x: 0.07115757, y: 0.9285527, z: -0.2693343, w: 0.24532749}
     speed: 2
-    m_Value: {x: 0.02514528, y: 0.9690259, z: -0.21904518, w: 0.11124626}
+    m_Value: {x: 0.07115757, y: 0.9285527, z: -0.2693343, w: 0.24532749}
   m_Size:
-    m_Target: 0.74867696
+    m_Target: 3.7839544
     speed: 2
-    m_Value: 0.74867696
+    m_Value: 3.7839544
   m_Ortho:
     m_Target: 0
     speed: 2
