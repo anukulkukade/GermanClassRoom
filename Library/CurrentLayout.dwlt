@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 548}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -44,10 +44,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 683, y: 498}
-  m_MaxSize: {x: 14004, y: 14048}
+  m_MinSize: {x: 679, y: 498}
+  m_MaxSize: {x: 14002, y: 14048}
   vertical: 0
-  controlID: 27
+  controlID: 130
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -67,8 +67,8 @@ MonoBehaviour:
     y: 0
     width: 389
     height: 947
-  m_MinSize: {x: 277, y: 74}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -93,8 +93,8 @@ MonoBehaviour:
     y: 0
     width: 379
     height: 673
-  m_MinSize: {x: 202, y: 224}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -149,7 +149,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 548}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -215,10 +215,10 @@ MonoBehaviour:
     y: 0
     width: 1531
     height: 947
-  m_MinSize: {x: 406, y: 498}
+  m_MinSize: {x: 404, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 28
+  controlID: 131
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -240,10 +240,10 @@ MonoBehaviour:
     y: 0
     width: 1531
     height: 673
-  m_MinSize: {x: 406, y: 224}
-  m_MaxSize: {x: 8006, y: 4024}
+  m_MinSize: {x: 404, y: 224}
+  m_MaxSize: {x: 8004, y: 4024}
   vertical: 0
-  controlID: 143
+  controlID: 132
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -336,20 +336,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Characters/Medium_Skinned_Girl_02/Model
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Characters/Medium_Skinned_Girl_02/Model
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\GermanClassRoom
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 519}
-    m_SelectedIDs: fc340000
-    m_LastClickedID: 13564
-    m_ExpandedIDs: 0000000080280000902800007a2900008a2b0000662e0000962f0000de2f0000f02f000058310000063500009652000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: a85c0000
+    m_LastClickedID: 23720
+    m_ExpandedIDs: 000000008628000096280000942900000c2a0000ea2b0000fa2e00004630000090300000a23000002c3200001c52000024520000a45c0000b25c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -374,10 +374,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 0000000080280000902800007a2900008a2b0000662e0000962f0000de2f0000f02f00005831000006350000
+    scrollPos: {x: 0, y: 488}
+    m_SelectedIDs: 1c520000
+    m_LastClickedID: 21020
+    m_ExpandedIDs: ffffffff000000008628000096280000942900000c2a0000ea2b0000fa2e00004630000090300000a23000002c32000036360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -404,8 +404,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c623000090480000824a000054510000
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: c623000090480000824a000054510000a253000050520000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -421,7 +421,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -496,9 +496,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 88300000
+      m_SelectedIDs: d45e0000
       m_LastClickedID: 0
-      m_ExpandedIDs: fa68fffffa6dfffffe6dffff026effff0a6effff0e6effff126effff1a6effff1e6effff226effff2a6effff2e6effff326effff3a6effff3e6effff426effff466effff4a6effff4e6effff526effff5a6effff5e6effff666effff6a6effff6e6effff766effff7a6effff7e6effff866effff8a6effff8e6effff966effff9a6effff9e6effffa66effffaa6effffae6effffb26effffb66effffba6effffbe6effffc26effffc66effffca6effffd26effffd66effffda6effffde6effffe66effffea6effffee6efffff26efffff66effff2a6fffff306fffff606fffffd4fbffff
+      m_ExpandedIDs: aebbfefff2bbfefff6bbfefffabbfeff02bcfeff06bcfeff0abcfeff12bcfeff16bcfeff1abcfeff22bcfeff26bcfeff2abcfeff32bcfeff36bcfeff3abcfeff3ebcfeff42bcfeff46bcfeff4abcfeff52bcfeff56bcfeff5ebcfeff62bcfeff66bcfeff6ebcfeff72bcfeff76bcfeff7ebcfeff82bcfeff86bcfeff8ebcfeff92bcfeff96bcfeff9ebcfeffa2bcfeffa6bcfeffaabcfeffaebcfeffb2bcfeffb6bcfeffbabcfeffbebcfeffc2bcfeffcabcfeffcebcfeffd2bcfeffd6bcfeffdebcfeffe2bcfeffe6bcfeffeabcfeffeebcfeff22bdfeff28bdfeff56bdfeff7cdefeff80defeff84defeff88defeff8cdefeff90defeff94defeff9cdefeffa0defeffa8defeffacdefeffb0defeffb4defeffb8defeffbcdefeffc0defeffc4defeffc8defeffccdefeffd4defeffd8defeffdcdefeffe0defeffe8defeffecdefefff0defefff4defefff8defeff2cdffeff32dffeff60dffeff8cf3ffffaaf4ffffd4fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -553,9 +553,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.3016531, y: -0.06786466, z: -2.724887}
+    m_Target: {x: -0.36446303, y: 0.8326101, z: -2.4579482}
     speed: 2
-    m_Value: {x: 1.3016531, y: -0.06786466, z: -2.724887}
+    m_Value: {x: -0.36446303, y: 0.8326101, z: -2.4579482}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -583,13 +583,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.07712575, y: -0.91265386, z: 0.20342802, w: -0.34602258}
+    m_Target: {x: 0.14155455, y: 0.16255182, z: -0.023570782, w: 0.97620887}
     speed: 2
-    m_Value: {x: -0.07712575, y: -0.91265386, z: 0.20342802, w: -0.34602258}
+    m_Value: {x: 0.14155455, y: 0.16255182, z: -0.023570782, w: 0.97620887}
   m_Size:
-    m_Target: 5.377287
+    m_Target: 2.7697122
     speed: 2
-    m_Value: 5.377287
+    m_Value: 2.7697122
   m_Ortho:
     m_Target: 0
     speed: 2
