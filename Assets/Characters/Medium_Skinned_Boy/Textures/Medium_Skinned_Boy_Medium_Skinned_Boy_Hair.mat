@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Medium_Skinned_Boy_Hair
+  m_Name: Medium_Skinned_Boy_Medium_Skinned_Boy_Hair
   m_Shader: {fileID: 4800000, guid: 3e40508dba3f0094192305951c10aa1a, type: 3}
   m_ShaderKeywords: _ALPHABLEND_ON _METALLICGLOSSMAP
   m_LightmapFlags: 4
